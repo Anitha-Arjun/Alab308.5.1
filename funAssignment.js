@@ -1,8 +1,5 @@
 // //Part 1: Thinking Functionally
 
-// let arr1=[2,4,4];
-// let arr2=[3,6,9];
-
 //Take an array of numbers and return the sum.
 function sumOfArray(a, b, c) {
   let sum = a + b + c;
